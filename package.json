@@ -1,0 +1,23 @@
+{
+  "name": "typescripting",
+  "version": "1.0.0",
+  "description": "Typescript learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austin1985/typescripting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austin1985/typescripting/issues"
+  },
+  "homepage": "https://github.com/austin1985/typescripting#readme",
+  "dependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
